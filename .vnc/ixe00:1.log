@@ -1,0 +1,105 @@
+11/01/18 14:18:55 Xvnc version TightVNC-1.3.9
+11/01/18 14:18:55 Copyright (C) 2000-2007 TightVNC Group
+11/01/18 14:18:55 Copyright (C) 1999 AT&T Laboratories Cambridge
+11/01/18 14:18:55 All Rights Reserved.
+11/01/18 14:18:55 See http://www.tightvnc.com/ for information on TightVNC
+11/01/18 14:18:55 Desktop name 'X' (ixe00:1)
+11/01/18 14:18:55 Protocol versions supported: 3.3, 3.7, 3.8, 3.7t, 3.8t
+11/01/18 14:18:55 Listening for VNC connections on TCP port 5901
+Font directory '/usr/share/fonts/X11/75dpi/' not found - ignoring
+xrdb: No such file or directory
+xrdb: can't open file '/home/pi/.Xresources'
+
+11/01/18 14:19:56 Got connection from client 192.168.2.1
+11/01/18 14:19:56 Using protocol version 3.3
+11/01/18 14:20:04 Client 192.168.2.1 gone
+11/01/18 14:20:04 Statistics:
+11/01/18 14:20:04   framebuffer updates 0, rectangles 0, bytes 0
+
+11/01/18 14:20:04 Got connection from client 192.168.2.1
+11/01/18 14:20:04 Using protocol version 3.3
+11/01/18 14:20:04 Full-control authentication passed by 192.168.2.1
+11/01/18 14:20:04 rfbProcessClientNormalMessage: ignoring unknown encoding 1011
+11/01/18 14:20:04 rfbProcessClientNormalMessage: ignoring unknown encoding 1002
+11/01/18 14:20:04 Using zlib encoding for client 192.168.2.1
+11/01/18 14:20:04 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+11/01/18 14:20:04 Enabling full-color cursor updates for client 192.168.2.1
+11/01/18 14:20:04 rfbProcessClientNormalMessage: ignoring unknown encoding 1104
+11/01/18 14:20:04 rfbProcessClientNormalMessage: ignoring unknown encoding 1100
+11/01/18 14:20:04 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+11/01/18 14:20:04 rfbProcessClientNormalMessage: ignoring unknown encoding 1101
+11/01/18 14:20:04 rfbProcessClientNormalMessage: ignoring unknown encoding 1105
+11/01/18 14:20:04 rfbProcessClientNormalMessage: ignoring unknown encoding 1102
+11/01/18 14:20:04 Pixel format for client 192.168.2.1:
+11/01/18 14:20:04   32 bpp, depth 32, little endian
+11/01/18 14:20:04   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+11/01/18 14:20:04 rfbProcessClientNormalMessage: ignoring unknown encoding 1011
+11/01/18 14:20:04 rfbProcessClientNormalMessage: ignoring unknown encoding 1002
+11/01/18 14:20:04 Using zlib encoding for client 192.168.2.1
+11/01/18 14:20:04 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+11/01/18 14:20:04 Enabling full-color cursor updates for client 192.168.2.1
+11/01/18 14:20:04 rfbProcessClientNormalMessage: ignoring unknown encoding 1104
+11/01/18 14:20:04 rfbProcessClientNormalMessage: ignoring unknown encoding 1100
+11/01/18 14:20:04 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+11/01/18 14:20:04 rfbProcessClientNormalMessage: ignoring unknown encoding 1101
+11/01/18 14:20:04 rfbProcessClientNormalMessage: ignoring unknown encoding 1105
+11/01/18 14:20:04 rfbProcessClientNormalMessage: ignoring unknown encoding 1102
+AUDIT: Thu Jan 11 14:21:41 2018: 1409 Xtightvnc: client 7 rejected from local host
+AUDIT: Thu Jan 11 14:21:41 2018: 1409 Xtightvnc: client 7 rejected from local host
+11/01/18 14:22:59 Client 192.168.2.1 gone
+11/01/18 14:22:59 Statistics:
+11/01/18 14:22:59   key events received 0, pointer events 3621
+11/01/18 14:22:59   framebuffer updates 730, rectangles 1641, bytes 9321146
+11/01/18 14:22:59     cursor shape updates 34, bytes 57814
+11/01/18 14:22:59     raw rectangles 16, bytes 320
+11/01/18 14:22:59     zlib rectangles 1591, bytes 9263012
+11/01/18 14:22:59   raw bytes equivalent 86696452, compression ratio 9.359100
+
+11/01/18 16:27:42 Got connection from client 192.168.2.1
+11/01/18 16:27:42 Using protocol version 3.3
+11/01/18 16:27:44 Client 192.168.2.1 gone
+11/01/18 16:27:44 Statistics:
+11/01/18 16:27:44   framebuffer updates 0, rectangles 0, bytes 0
+
+11/01/18 18:41:56 Got connection from client 192.168.2.1
+11/01/18 18:41:56 Using protocol version 3.3
+11/01/18 18:41:58 Client 192.168.2.1 gone
+11/01/18 18:41:58 Statistics:
+11/01/18 18:41:58   framebuffer updates 0, rectangles 0, bytes 0
+
+11/01/18 18:41:58 Got connection from client 192.168.2.1
+11/01/18 18:41:58 Using protocol version 3.3
+11/01/18 18:41:58 Full-control authentication passed by 192.168.2.1
+11/01/18 18:41:58 rfbProcessClientNormalMessage: ignoring unknown encoding 1011
+11/01/18 18:41:58 rfbProcessClientNormalMessage: ignoring unknown encoding 1002
+11/01/18 18:41:58 Using zlib encoding for client 192.168.2.1
+11/01/18 18:41:58 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+11/01/18 18:41:58 Enabling full-color cursor updates for client 192.168.2.1
+11/01/18 18:41:58 rfbProcessClientNormalMessage: ignoring unknown encoding 1104
+11/01/18 18:41:58 rfbProcessClientNormalMessage: ignoring unknown encoding 1100
+11/01/18 18:41:58 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+11/01/18 18:41:58 rfbProcessClientNormalMessage: ignoring unknown encoding 1101
+11/01/18 18:41:58 rfbProcessClientNormalMessage: ignoring unknown encoding 1105
+11/01/18 18:41:58 rfbProcessClientNormalMessage: ignoring unknown encoding 1102
+11/01/18 18:41:58 Pixel format for client 192.168.2.1:
+11/01/18 18:41:58   32 bpp, depth 32, little endian
+11/01/18 18:41:58   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+11/01/18 18:41:58 rfbProcessClientNormalMessage: ignoring unknown encoding 1011
+11/01/18 18:41:58 rfbProcessClientNormalMessage: ignoring unknown encoding 1002
+11/01/18 18:41:58 Using zlib encoding for client 192.168.2.1
+11/01/18 18:41:58 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+11/01/18 18:41:58 Enabling full-color cursor updates for client 192.168.2.1
+11/01/18 18:41:58 rfbProcessClientNormalMessage: ignoring unknown encoding 1104
+11/01/18 18:41:58 rfbProcessClientNormalMessage: ignoring unknown encoding 1100
+11/01/18 18:41:58 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+11/01/18 18:41:58 rfbProcessClientNormalMessage: ignoring unknown encoding 1101
+11/01/18 18:41:58 rfbProcessClientNormalMessage: ignoring unknown encoding 1105
+11/01/18 18:41:58 rfbProcessClientNormalMessage: ignoring unknown encoding 1102
+11/01/18 18:50:09 Client 192.168.2.1 gone
+11/01/18 18:50:09 Statistics:
+11/01/18 18:50:09   key events received 281, pointer events 4503
+11/01/18 18:50:09   framebuffer updates 900, rectangles 3499, bytes 22112441
+11/01/18 18:50:09     cursor shape updates 102, bytes 140647
+11/01/18 18:50:09     raw rectangles 299, bytes 6116
+11/01/18 18:50:09     zlib rectangles 3098, bytes 21965678
+11/01/18 18:50:09   raw bytes equivalent 138097764, compression ratio 6.285229
